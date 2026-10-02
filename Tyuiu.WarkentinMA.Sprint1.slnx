@@ -9,6 +9,11 @@
     <Project Path="Tyuiu.WarkentinMA.Sprint1.Task2.V8.Test/Tyuiu.WarkentinMA.Sprint1.Task2.V8.Test.csproj" Id="373ebe19-b747-4f57-8fbb-167b71970bae" />
     <Project Path="Tyuiu.WarkentinMA.Sprint1.Task2.V8/Tyuiu.WarkentinMA.Sprint1.Task2.V8.csproj" Id="dbbb49f6-6a24-43cf-9df8-fcb57006ad42" />
   </Folder>
+  <Folder Name="/Task3/">
+    <Project Path="Tyuiu.WarkentinMA.Sprint1.Task3.V6.Lib/Tyuiu.WarkentinMA.Sprint1.Task3.V6.Lib.csproj" Id="41de96bd-cbe1-4a8d-a725-066af40ebd35" />
+    <Project Path="Tyuiu.WarkentinMA.Sprint1.Task3.V6.Test/Tyuiu.WarkentinMA.Sprint1.Task3.V6.Test.csproj" Id="4d59f408-77bb-4f50-bb17-5850c3fc10ce" />
+    <Project Path="Tyuiu.WarkentinMA.Sprint1.Task3.V6/Tyuiu.WarkentinMA.Sprint1.Task3.V6.csproj" Id="e39b3d7f-3366-4ac4-b127-5eb10931f255" />
+  </Folder>
   <Project Path="Tyuiu.WarkentinMA.Sprint1.Task0.V26.Lib/Tyuiu.WarkentinMA.Sprint1.Task0.V26.Lib.csproj" />
   <Project Path="Tyuiu.WarkentinMA.Sprint1.Task0.V26.Test/Tyuiu.WarkentinMA.Sprint1.Task0.V26.Test.csproj" />
   <Project Path="Tyuiu.WarkentinMA.Sprint1.Task0.V26/Tyuiu.WarkentinMA.Sprint1.Task0.V26.csproj" />
