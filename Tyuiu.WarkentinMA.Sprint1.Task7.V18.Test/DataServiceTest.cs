@@ -12,7 +12,7 @@ namespace Tyuiu.WarkentinMA.Sprint1.Task7.V18.Test
             double x = 4;
             double y = 6;
             var res = ds.Calculate(x, y);
-            Assert.AreEqual(4.22, res);
+            Assert.AreEqual(4.216, res);
 
         }
     }
